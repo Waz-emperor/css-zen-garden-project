@@ -1,0 +1,51 @@
+body {
+  background-color: grey;
+}
+
+
+
+.intro {
+background-color: rgb(138, 225, 236);
+
+  border: 2px solid #000;
+
+}
+
+
+
+
+.explanation, .participation, .benefits, .requirements {
+    
+    border: 2px solid black;
+    max-width: 600px;
+}
+
+.explanation {
+  position: relative;
+  left: -3px;
+}
+
+.participation {
+  position: relative;
+  top: -260px;
+  left: 600px;
+}
+
+.benefits {
+  position: relative;
+  top: -310px;
+  right: 3px;
+}
+
+.requirements {
+  position: relative;
+  left: 600px;
+  top: -413px;
+}
+
+.sidebar {
+  position: relative;
+  top: -810px;
+}
+
+
